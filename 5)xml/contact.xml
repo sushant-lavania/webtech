@@ -1,0 +1,52 @@
+<contacts>
+    <contact id="1">
+        <name>Nishant</name>
+        <company>FSoft</company>
+        <phone>
+            <mobile>0912443843</mobile>
+            <home>0332982321</home>
+            <office>098512343</office>
+        </phone>
+
+    </contact>
+    <contact id="2">
+        <name>Chirag</name>
+        <company>GameLot</company>
+        <phone>
+            <mobile>0982343454</mobile>
+            <home>042493843</home>
+            <office>04982312</office>
+        </phone>
+
+    </contact>
+    <contact id="3">
+        <name>Rishabh</name>
+        <company>VietLand</company>
+        <phone>
+            <mobile>0983475433</mobile>
+            <home>0982354344</home>
+            <office>0912434343</office>
+        </phone>
+
+    </contact>
+    <contact id="4">
+        <name>Dhruv</name>
+        <company>Yamaha</company>
+        <phone>
+            <mobile>0904983234</mobile>
+            <home>0982354344</home>
+            <office>024788323</office>
+        </phone>
+
+    </contact>
+    <contact id="5">
+        <name>Shubhveer</name>
+        <company>Harmony</company>
+        <phone>
+            <mobile>0988353235</mobile>
+            <home>024986545</home>
+            <office>024988988</office>
+        </phone>
+
+    </contact>
+</contacts>
